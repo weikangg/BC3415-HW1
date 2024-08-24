@@ -35,6 +35,6 @@ This project is a simple web application built using Flask that predicts the fut
 
 ### Links
 
-- [PythonAnywhere Deployment](weikang.pythonanywhere.com)
+- [PythonAnywhere Deployment](https://weikang.pythonanywhere.com)
 - [Render Deployment](https://bc3415-hw1-yio6.onrender.com/)
 - [Github](https://github.com/weikangg/BC3415-HW1)
